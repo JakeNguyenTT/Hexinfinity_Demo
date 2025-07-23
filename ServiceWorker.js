@@ -1,4 +1,4 @@
-const cacheName = "SJStudio-Hexinfinity-0.1";
+const cacheName = "ThinkingBuffalo-HexaInfinity-0.9.0";
 const contentToCache = [
     "Build/WebGL.loader.js",
     "Build/WebGL.framework.js",
