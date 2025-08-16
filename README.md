@@ -1,4 +1,4 @@
-# LostCat_Demo
-A demo platformer game made by me, using Unity. The main character has an adventure to rescue her beloved cat!
-You can play the game in the link below.
+# Hexinfinity_Demo
+A demo puzzle game made by me, using Unity.
+Use move and merge the hex tiles to score.
 Link: https://jakenguyentt.github.io/Hexinfinity_Demo/
